@@ -1,0 +1,12 @@
+{% extends "base.html" %} {% block body %}
+<section class="header">
+    <h4 class="title">Show Me !!</h4>
+</section>
+<section class=" container">
+    <div class="container">
+        {% for key,value in showme.items()  %}
+        <p>{{key}}: {{value}}</p>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

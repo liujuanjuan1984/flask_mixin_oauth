@@ -1,0 +1,3 @@
+MIXIN_CLIENT_ID = "1da97d99-8ded-aaod-8582-ee2161a58d29"
+
+MIXIN_CLIENT_SECRET = "ea27acd2d61c61e2ac2ao81819a5ao6de8dcd2d9a2aa12a75d81ad29aa8odcca"
